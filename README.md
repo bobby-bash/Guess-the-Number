@@ -5,7 +5,7 @@ Its a simple Python code.
 
 How to install,
 
-git clone https://github.com/bobby-bash/Guess-the-Number.git
+git clone https://github.com/bobby-bash/theno.git
 
 cd Guess-the-Number
 
