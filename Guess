@@ -1,0 +1,18 @@
+import random
+n = random.randint(1, 99)
+guess = int(input("\nEnter an integer from 1 to 99: "))
+ 
+while n != "guess":
+	print()
+	x = str(guess)
+	if guess < n:
+		print("Sorry..! \nYour guess is low")
+		guess = int(input("Enter an integer higher than " + x + " : "))
+	elif guess > n:
+		print("Sorry..! \nYour guess is high")
+		guess = int(input("Enter an integer lower than " + x + " : "))
+	else:
+		print("Congratulation..! \nYou guessed it!")
+		break
+	print()
+			 
