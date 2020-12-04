@@ -11,7 +11,7 @@ cd theNo
 
 python3 Guess
 
-![](images/Image.png)
+![Image](https://user-images.githubusercontent.com/72820018/101196059-440aad00-3686-11eb-8bc0-8d0841244370.png)
 
 Explenation to the code:
 
