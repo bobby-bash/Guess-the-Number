@@ -3,6 +3,13 @@
 Hello Everyone,
 Its a simple Python code.
 
+How to install,
+
+git clone https://github.com/bobby-bash/Guess-the-Number.git
+
+cd Guess-the-Number
+
+
 If you execute this code its going to import the random number from 1 to 99.
 After that you have to try to find the number.
 
