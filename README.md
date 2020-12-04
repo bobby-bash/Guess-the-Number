@@ -1,6 +1,9 @@
 # Guess-the-Number
 
-Hello Everyone,
+Hello Everyone!
+
+I am Sridhar,
+
 Its a simple Python code.
 
 How to install,
